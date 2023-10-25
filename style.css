@@ -23,3 +23,9 @@ header {
 ul {
   list-style: none;
 }
+img {
+    width: 200px;   /* Sets the width to 200 pixels */
+    height: auto;   /* Maintains the aspect ratio */
+    margin: 20px;   /* Adds space around the image */
+    border: 2px solid black; /* Adds a border */
+}
